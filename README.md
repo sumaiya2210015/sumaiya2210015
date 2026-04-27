@@ -11,7 +11,8 @@ ECE Student • Builder Under Pressure • Future Systems Engineer
 </h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="210"/>
+
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="220"/>
 </p>
 
 ---
@@ -104,8 +105,8 @@ https://github.com/your-username
 ## Contact
 
 <p>
-• Email: your-email@gmail.com<br>
-• LinkedIn: your-linkedin
+• Email: sumaiyaaislam375@gmail.com<br>
+• LinkedIn: https://www.linkedin.com/in/sumaiya-islam-103b62346/
 </p>
 
 ---
