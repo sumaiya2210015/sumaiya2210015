@@ -7,12 +7,12 @@
 </p>
 
 <h3 align="center">
-ECE Student • Builder Under Pressure • Future Systems Engineer
+ECE Student • Ambitious • Future Systems Engineer
 </h3>
 
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="220"/>
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="220"/>
 </p>
 
 
@@ -20,18 +20,18 @@ ECE Student • Builder Under Pressure • Future Systems Engineer
 
 ## About
 
-I’m an ECE student who thrives under pressure —  
+I’m an ECE student who thrives under pressure,
 deadlines, complexity, and challenges don’t slow me down, they sharpen me.
 
 I build at the intersection of **hardware + software**, turning ideas into real systems.  
-Ambitious by nature, I’m constantly pushing beyond comfort zones — learning fast, building faster.
+Ambitious by nature, I’m constantly pushing beyond comfort zones learning fast, building faster.
 
 ---
 
 ## Currently Working On
 
 <p>
-• Intelligent Traffic Light Control System (Arduino-based)<br>
+• Intelligent Traffic Light Control System & Line following Robot (Arduino-based)<br>
 • Spendly – Personal Finance Web App<br>
 • Embedded & automation-focused university projects
 </p>
