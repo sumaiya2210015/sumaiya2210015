@@ -12,7 +12,7 @@ ECE Student • Builder Under Pressure • Future Systems Engineer
 
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="220"/>
+  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="220"/>
 </p>
 
 
